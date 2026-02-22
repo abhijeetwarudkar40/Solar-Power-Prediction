@@ -52,7 +52,9 @@ Final Model Performance:
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the app
+3. Run Solar_Power_Predictor.ipynb
+4. Add model.pkl, features.pkl, and scaler.pkl in Project Folder
+5. Run the app
 ```bash
  streamlit run app.py
 ```
